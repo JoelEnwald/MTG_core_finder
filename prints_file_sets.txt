@@ -1,0 +1,360 @@
+Disenchant
+Fear
+Giant Growth
+Giant Growth
+Shatter
+Shatter
+Stone Rain
+Firebreathing
+Fog
+Pacifism
+Pacifism
+Rampant Growth
+Air Elemental
+Craw Wurm
+Flight
+Giant Spider
+Giant Spider
+Holy Strength
+Llanowar Elves
+Llanowar Elves
+Ornithopter
+Unholy Strength
+Unsummon
+Unsummon
+Wall of Fire
+Sage Owl
+Gravedigger
+Gravedigger
+Horned Turtle
+Lightning Elemental
+Phyrexian Hulk
+Wind Drake
+Wind Drake
+Fling
+Mana Leak
+Shock
+Shock
+Smite
+Spined Wurm
+Maniacal Rage
+Merfolk Looter
+Raging Goblin
+Reclaim
+Coral Merfolk
+Duress
+Duress
+Looming Shade
+Erase
+Lava Axe
+Lava Axe
+Plague Beetle
+Fire Elemental
+Ravenous Rats
+Trumpet Blast
+Panic Attack
+Aggressive Urge
+Cremate
+Opt
+Razorfoot Griffin
+Recover
+Mind Rot
+Mind Rot
+Mind Rot
+Serra Angel
+Index
+Phyrexian Rager
+Angelic Wall
+Auramancer
+Demolish
+Demolish
+Diabolic Tutor
+Suntail Hawk
+Demystify
+Naturalize
+Naturalize
+Naturalize
+Naturalize
+Fugitive Wizard
+Raise the Alarm
+Essence Drain
+Skyhunter Prowler
+Goblin Piker
+Convolute
+Peel from Reality
+Siege Wurm
+Skyknight Legionnaire
+Snapping Drake
+Terrarion
+Douse in Gloom
+Macabre Waltz
+Assassinate
+Cancel
+Cancel
+Cancel
+Terramorphic Expanse
+Prodigal Pyromancer
+Llanowar Empath
+Nessian Courser
+Oblivion Ring
+Ponder
+Disperse
+Kindled Fury
+Negate
+Negate
+Negate
+Negate
+Beckon Apparition
+Bone Splinters
+Dragon Fodder
+Elvish Visionary
+Excommunicate
+Magma Spray
+Aven Squire
+Bone Saw
+Canyon Minotaur
+Infectious Horror
+Act of Treason
+Act of Treason
+Angel's Mercy
+Bountiful Harvest
+Centaur Courser
+Child of Night
+Child of Night
+Deadly Recluse
+Disentomb
+Divination
+Divination
+Divine Verdict
+Divine Verdict
+Doom Blade
+Essence Scatter
+Fiery Hellhound
+Griffin Sentinel
+Ice Cage
+Runeclaw Bear
+Safe Passage
+Siege Mastodon
+Sign in Blood
+Silvercoat Lion
+Solemn Offering
+Stormfront Pegasus
+Tome Scour
+Zombie Goliath
+Bladetusk Boar
+Goblin War Paint
+Pillarfield Ox
+Vastwood Gorger
+Welkin Tern
+Aether Tradewinds
+Arbor Elf
+Brink of Disaster
+Dispel
+Goblin Roughrider
+Bloodthrone Vampire
+Evolving Wilds
+Evolving Wilds
+Evolving Wilds
+Goblin Arsonist
+Goblin Tunneler
+Might of the Masses
+Prophetic Prism
+Assault Griffin
+Brindle Boar
+Chandra's Outrage
+Harbor Serpent
+Inspired Charge
+Inspired Charge
+Mighty Leap
+Mighty Leap
+Plummet
+Plummet
+Plummet
+Scroll Thief
+Revoke Existence
+Strider Harness
+Turn Aside
+Dark Favor
+Divine Favor
+Manalith
+Sorin's Thirst
+Titanic Growth
+Altar's Reap
+Claustrophobia
+Dead Weight
+Prey Upon
+Prey Upon
+Ranger's Guile
+Smite the Monstrous
+Traveler's Amulet
+Typhoid Rats
+Walking Corpse
+Black Cat
+Bone to Ash
+Forge Devil
+Gravepurge
+Griptide
+Midnight Guard
+Nephalia Seakite
+Screeching Skaab
+Torch Fiend
+Moorland Inquisitor
+Natural End
+Necrobite
+Righteous Blow
+Griffin Protector
+Mark of the Vampire
+Murder
+Rummaging Goblin
+Smelt
+Azorius Guildgate
+Concordia Pegasus
+Goblin Electromancer
+Golgari Guildgate
+Izzet Guildgate
+Rakdos Guildgate
+Selesnya Guildgate
+Boros Guildgate
+Dimir Guildgate
+Gruul Guildgate
+Metropolis Sprite
+Orzhov Guildgate
+Orzhov Guildgate
+Sage's Row Denizen
+Simic Guildgate
+Simic Guildgate
+Totally Lost
+Verdant Haven
+Clear a Path
+Celestial Flare
+Charging Griffin
+Hunt the Weak
+Hunt the Weak
+Soulmender
+Zephyr Charge
+Feral Invocation
+Guardians of Meletis
+Lightning Strike
+Omenspeaker
+Read the Bones
+Returned Centaur
+Sedge Scorpion
+Titan's Strength
+Unknown Shores
+Yoked Ox
+Loyal Pegasus
+Satyr Wayfinder
+Stratus Walk
+Weight of the Underworld
+Eagle of the Watch
+Oppressive Rays
+Oreskos Swiftclaw
+Sigiled Starfish
+Flesh to Dust
+Frost Lynx
+Netcaster Spider
+Bloodfell Caves
+Blossoming Sands
+Defiant Strike
+Disdainful Stroke
+Dismal Backwater
+Dutiful Return
+Highland Game
+Jungle Hollow
+Rugged Highlands
+Scoured Barrens
+Summit Prowler
+Swiftwater Cliffs
+Thornwood Falls
+Throttle
+Tormenting Voice
+Tranquil Cove
+Weave Fate
+Wind-Scarred Crag
+Pressure Point
+Sandblast
+Anticipate
+Glaring Aegis
+Magmatic Chasm
+Vial of Dragonfire
+Boggart Brute
+Faerie Miscreant
+Hitchclaw Recluse
+Infernal Scarring
+Undead Servant
+Angelic Gift
+Gideon's Reproach
+Sure Strike
+Ancient Crab
+Brute Strength
+Cinder Barrens
+Cinder Barrens
+Meandering River
+Pulse of Murasa
+Submerged Boneyard
+Timber Gorge
+Tranquil Expanse
+Dual Shot
+Explosive Apparatus
+Forsaken Sanctuary
+Foul Orchard
+Highland Lake
+Inspiring Captain
+Rabid Bite
+Reduce to Ashes
+Sanitarium Skeleton
+Sleep Paralysis
+Stone Quarry
+Thornhide Wolves
+Woodland Stream
+Woodland Stream
+Field Creeper
+Wolfkin Bond
+Chandra's Pyrohelix
+Hijack
+Impeccable Timing
+Terrain Elemental
+Alley Strangler
+Dawnfeather Eagle
+Druid of the Cowl
+Pendulum of Patterns
+Wrangle
+Doomed Dissenter
+Electrify
+Gift of Paradise
+Tattered Mummy
+Crash Through
+Gift of Strength
+Colossal Dreadmaw
+Crushing Canopy
+Fathom Fleet Cutthroat
+Legion Conquistador
+New Horizons
+Raptor Companion
+Sailor of Means
+Skymarch Bloodletter
+Grasping Scoundrel
+Luminous Bonds
+Mist-Cloaked Herald
+Sun Sentinel
+Waterknot
+Befuddle
+Feral Abomination
+Invoke the Divine
+Keldon Raider
+Mammoth Spider
+Pegasus Courser
+Primordial Wurm
+Radiating Lightning
+Soul Salvage
+Tolarian Scholar
+Daybreak Chaplain
+Epicure of Blood
+Frilled Sea Serpent
+Greenwood Sentinel
+Marauder's Axe
+Root Snare
+Wall of Mist
+Gateway Plaza
+Bladebrand
+Prismite

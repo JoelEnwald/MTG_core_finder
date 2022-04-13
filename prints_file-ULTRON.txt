@@ -1,0 +1,1094 @@
+Adarkar Wastes;172;['U', 'W'];['Land'];2
+Aggressive Urge;175;['G'];['Instant'];0
+Agonizing Memories;119;['B'];['Sorcery'];1
+Air Elemental;663;['U'];['Creature'];1
+Angel of Mercy;160;['W'];['Creature'];1
+Angel's Feather;327;[];['Artifact'];1
+Angelic Blessing;115;['W'];['Sorcery'];0
+Angelic Wall;230;['W'];['Creature'];0
+Assassinate;225;['B'];['Sorcery'];0
+Aven Cloudchaser;164;['W'];['Creature'];0
+Aven Fisher;164;['U'];['Creature'];0
+Aven Windreader;127;['U'];['Creature'];0
+Ballista Squad;120;['W'];['Creature'];1
+Battlefield Forge;290;['R', 'W'];['Land'];2
+Birds of Paradise;409;['G'];['Creature'];2
+Blanchwood Armor;280;['G'];['Enchantment'];1
+Blaze;184;['R'];['Sorcery'];1
+Bloodfire Colossus;126;['R'];['Creature'];2
+Bog Wraith;276;['B'];['Creature'];1
+Boomerang;218;['U'];['Instant'];0
+Bottle Gnomes;151;[];['Artifact', 'Creature'];1
+Brushland;172;['G', 'W'];['Land'];2
+Cancel;1007;['U'];['Instant'];0
+Canopy Spider;237;['G'];['Creature'];0
+Caves of Koilos;290;['B', 'W'];['Land'];2
+Clone;410;['U'];['Creature'];2
+Cloud Elemental;130;['U'];['Creature'];0
+Coat of Arms;241;[];['Artifact'];2
+Condemn;163;['W'];['Instant'];1
+Cone of Flame;235;['R'];['Sorcery'];1
+Consume Spirit;262;['B'];['Sorcery'];1
+Contaminated Bond;134;['B'];['Enchantment'];0
+Counsel of the Soratami;137;['U'];['Sorcery'];0
+Crafty Pathmage;130;['U'];['Creature'];0
+Craw Wurm;225;['G'];['Creature'];0
+Creeping Mold;326;['G'];['Sorcery'];1
+Crucible of Worlds;190;[];['Artifact'];2
+Deathmark;292;['B'];['Sorcery'];1
+Dehydration;157;['U'];['Enchantment'];0
+Demolish;883;['R'];['Sorcery'];0
+Demon's Horn;327;[];['Artifact'];1
+Demystify;393;['W'];['Instant'];0
+Diabolic Tutor;522;['B'];['Sorcery'];1
+Distress;161;['B'];['Sorcery'];0
+Dragon's Claw;327;[];['Artifact'];1
+Drudge Skeletons;276;['B'];['Creature'];0
+Dusk Imp;120;['B'];['Creature'];0
+Elven Riders;138;['G'];['Creature'];1
+Elvish Berserker;115;['G'];['Creature'];0
+Elvish Champion;189;['G'];['Creature'];2
+Elvish Piper;245;['G'];['Creature'];2
+Enormous Baloth;228;['G'];['Creature'];1
+Essence Drain;163;['B'];['Sorcery'];0
+Evacuation;180;['U'];['Instant'];2
+Fear;226;['B'];['Enchantment'];0
+Femeref Archers;116;['G'];['Creature'];1
+Festering Goblin;130;['B'];['Creature'];0
+Firebreathing;291;['R'];['Enchantment'];0
+Flashfreeze;292;['U'];['Instant'];1
+Flowstone Slide;121;['R'];['Sorcery'];2
+Forest;3330;['G'];['Land'];0
+Fugitive Wizard;248;['U'];['Creature'];0
+Furnace Whelp;244;['R'];['Creature'];1
+Furnace of Rath;150;['R'];['Enchantment'];2
+Gaea's Herald;117;['G'];['Creature'];2
+Giant Growth;600;['G'];['Instant'];0
+Giant Spider;675;['G'];['Creature'];0
+Glorious Anthem;182;['W'];['Enchantment'];2
+Goblin Elite Infantry;116;['R'];['Creature'];0
+Goblin King;216;['R'];['Creature'];2
+Goblin Piker;288;['R'];['Creature'];0
+Goblin Sky Raider;130;['R'];['Creature'];0
+Grave Pact;151;['B'];['Enchantment'];2
+Gravedigger;797;['B'];['Creature'];0
+Grizzly Bears;216;['G'];['Creature'];0
+Guerrilla Tactics;145;['R'];['Instant'];1
+Highway Robber;120;['B'];['Creature'];0
+Hill Giant;194;['R'];['Creature'];0
+Holy Day;166;['W'];['Instant'];0
+Holy Strength;318;['W'];['Enchantment'];0
+Honor Guard;180;['W'];['Creature'];0
+Howling Mine;276;[];['Artifact'];2
+Hunted Wumpus;157;['G'];['Creature'];1
+Hurricane;145;['G'];['Sorcery'];1
+Hypnotic Specter;173;['B'];['Creature'];1
+Icy Manipulator;244;[];['Artifact'];1
+Incinerate;158;['R'];['Instant'];0
+Island;3330;['U'];['Land'];0
+Jayemdae Tome;328;[];['Artifact'];2
+Juggernaut;340;[];['Artifact', 'Creature'];1
+Karplusan Forest;172;['G', 'R'];['Land'];2
+Kavu Climber;123;['G'];['Creature'];0
+Kjeldoran Royal Guard;128;['W'];['Creature'];2
+Kraken's Eye;327;[];['Artifact'];1
+Lava Axe;629;['R'];['Sorcery'];0
+Lightning Elemental;307;['R'];['Creature'];0
+Llanowar Elves;566;['G'];['Creature'];0
+Llanowar Wastes;290;['B', 'G'];['Land'];2
+Looming Shade;242;['B'];['Creature'];0
+Lord of the Undead;161;['B'];['Creature'];2
+Loxodon Warhammer;134;[];['Artifact'];2
+Lumengrid Warden;134;['U'];['Creature'];0
+Lure;315;['G'];['Enchantment'];1
+Mahamoti Djinn;343;['U'];['Creature'];2
+Manabarbs;234;['R'];['Enchantment'];2
+Mass of Ghouls;103;['B'];['Creature'];0
+Megrim;240;['B'];['Enchantment'];1
+Merfolk Looter;228;['U'];['Creature'];0
+Might of Oaks;243;['G'];['Instant'];2
+Millstone;391;[];['Artifact'];2
+Mind Bend;146;['U'];['Instant'];2
+Mind Rot;1199;['B'];['Sorcery'];0
+Mortivore;127;['B'];['Creature'];2
+Mountain;3333;['R'];['Land'];0
+Nantuko Husk;214;['B'];['Creature'];0
+Natural Spring;113;['G'];['Sorcery'];0
+Naturalize;1208;['G'];['Instant'];0
+Nekrataal;147;['B'];['Creature'];1
+Nightmare;695;['B'];['Creature'];2
+Orcish Artillery;216;['R'];['Creature'];1
+Ornithopter;484;[];['Artifact', 'Creature'];1
+Overgrowth;114;['G'];['Enchantment'];0
+Overrun;228;['G'];['Sorcery'];1
+Pacifism;793;['W'];['Enchantment'];0
+Paladin en-Vec;115;['W'];['Creature'];2
+Phantom Warrior;438;['U'];['Creature'];1
+Phyrexian Rager;148;['B'];['Creature'];0
+Pithing Needle;228;[];['Artifact'];2
+Plagiarize;128;['U'];['Instant'];2
+Plague Beetle;183;['B'];['Creature'];0
+Plague Wind;159;['B'];['Sorcery'];2
+Plains;3330;['W'];['Land'];0
+Platinum Angel;214;[];['Artifact', 'Creature'];2
+Prodigal Pyromancer;226;['R'];['Creature'];0
+Puppeteer;164;['U'];['Creature'];1
+Pyroclasm;296;['R'];['Sorcery'];1
+Quicksand;172;[];['Land'];1
+Quirion Dryad;152;['G'];['Creature'];2
+Raging Goblin;263;['R'];['Creature'];0
+Rampant Growth;342;['G'];['Sorcery'];0
+Ravenous Rats;255;['B'];['Creature'];0
+Recollect;195;['G'];['Sorcery'];1
+Recover;175;['B'];['Sorcery'];0
+Regeneration;239;['G'];['Enchantment'];0
+Relentless Assault;198;['R'];['Sorcery'];2
+Relentless Rats;216;['B'];['Creature'];1
+Reminisce;130;['U'];['Sorcery'];1
+Remove Soul;205;['U'];['Instant'];0
+Rhox;114;['G'];['Creature'];2
+Righteousness;188;['W'];['Instant'];2
+Rod of Ruin;352;[];['Artifact'];1
+Rootwalla;281;['G'];['Creature'];0
+Royal Assassin;342;['B'];['Creature'];2
+Rule of Law;192;['W'];['Enchantment'];1
+Rushwood Dryad;113;['G'];['Creature'];0
+Sage Owl;216;['U'];['Creature'];0
+Samite Healer;216;['W'];['Creature'];0
+Scathe Zombies;216;['B'];['Creature'];0
+Sea Monster;201;['U'];['Creature'];0
+Seedborn Muse;131;['G'];['Creature'];2
+Seismic Assault;137;['R'];['Enchantment'];2
+Sengir Vampire;632;['B'];['Creature'];1
+Serra Angel;959;['W'];['Creature'];1
+Severed Legion;123;['B'];['Creature'];0
+Shivan Dragon;873;['R'];['Creature'];2
+Shivan Reef;290;['R', 'U'];['Land'];2
+Shock;671;['R'];['Instant'];0
+Siege-Gang Commander;245;['R'];['Creature'];2
+Sift;212;['U'];['Sorcery'];0
+Skyhunter Prowler;136;['W'];['Creature'];0
+Smash;127;['R'];['Instant'];0
+Snapping Drake;357;['U'];['Creature'];0
+Soul Feast;185;['B'];['Sorcery'];1
+Soul Warden;175;['W'];['Creature'];0
+Spellbook;241;[];['Artifact'];1
+Spiketail Hatchling;115;['U'];['Creature'];1
+Spined Wurm;244;['G'];['Creature'];0
+Spineless Thug;187;['B'];['Creature'];0
+Spirit Link;214;['W'];['Enchantment'];1
+Spitting Earth;116;['R'];['Sorcery'];0
+Stalking Tiger;179;['G'];['Creature'];0
+Story Circle;157;['W'];['Enchantment'];2
+Sudden Impact;179;['R'];['Instant'];1
+Sulfurous Springs;172;['B', 'R'];['Land'];2
+Suntail Hawk;242;['W'];['Creature'];0
+Swamp;3330;['B'];['Land'];0
+Sylvan Scrying;175;['G'];['Sorcery'];1
+Telepathy;242;['U'];['Enchantment'];1
+Tempest of Light;194;['W'];['Instant'];1
+Terramorphic Expanse;225;[];['Land'];0
+Terror;144;['B'];['Instant'];0
+The Hive;106;[];['Artifact'];2
+Thieving Magpie;185;['U'];['Creature'];1
+Threaten;130;['R'];['Sorcery'];1
+Thundering Giant;244;['R'];['Creature'];0
+Traumatize;327;['U'];['Sorcery'];2
+Treetop Bracers;121;['G'];['Enchantment'];0
+Tundra Wolves;141;['W'];['Creature'];0
+Twincast;155;['U'];['Instant'];2
+Twitch;131;['U'];['Instant'];0
+Underground River;172;['B', 'U'];['Land'];2
+Underworld Dreams;199;['B'];['Enchantment'];2
+Unholy Strength;318;['B'];['Enchantment'];0
+Unsummon;690;['U'];['Instant'];0
+Venerable Monk;202;['W'];['Creature'];0
+Verdant Force;210;['G'];['Creature'];2
+Viridian Shaman;134;['G'];['Creature'];1
+Wall of Air;172;['U'];['Creature'];1
+Wall of Fire;347;['R'];['Creature'];1
+Wall of Swords;248;['W'];['Creature'];1
+Warp World;157;['R'];['Sorcery'];2
+Warrior's Honor;132;['W'];['Instant'];0
+Whispersilk Cloak;215;[];['Artifact'];1
+Wild Griffin;116;['W'];['Creature'];0
+Wrath of God;216;['W'];['Sorcery'];2
+Wurm's Tooth;327;[];['Artifact'];1
+Yavimaya Coast;290;['G', 'U'];['Land'];2
+Yavimaya Enchantress;185;['G'];['Creature'];1
+Black Knight;156;['B'];['Creature'];1
+Circle of Protection: Black;191;['W'];['Enchantment'];0
+Circle of Protection: Blue;147;['W'];['Enchantment'];0
+Circle of Protection: Green;147;['W'];['Enchantment'];0
+Circle of Protection: Red;191;['W'];['Enchantment'];0
+Circle of Protection: White;147;['W'];['Enchantment'];0
+Counterspell;134;['U'];['Instant'];0
+Crystal Rod;120;[];['Artifact'];1
+Dark Ritual;116;['B'];['Instant'];0
+Dingus Egg;120;[];['Artifact'];2
+Disenchant;269;['W'];['Instant'];0
+Disrupting Scepter;164;[];['Artifact'];2
+Earthquake;143;['R'];['Sorcery'];2
+Fire Elemental;437;['R'];['Creature'];0
+Fireball;263;['R'];['Sorcery'];1
+Flashfires;135;['R'];['Sorcery'];1
+Flight;232;['U'];['Enchantment'];0
+Fog;436;['G'];['Instant'];0
+Goblin Balloon Brigade;125;['R'];['Creature'];1
+Healing Salve;153;['W'];['Instant'];0
+Invisibility;120;['U'];['Enchantment'];0
+Iron Star;120;[];['Artifact'];1
+Ivory Cup;120;[];['Artifact'];1
+Lightning Bolt;141;['R'];['Instant'];0
+Merfolk of the Pearl Trident;155;['U'];['Creature'];0
+Power Sink;114;['U'];['Instant'];0
+Raise Dead;256;['B'];['Sorcery'];0
+Reverse Damage;127;['W'];['Instant'];2
+Shatter;531;['R'];['Instant'];0
+Spell Blast;147;['U'];['Instant'];0
+Stone Rain;269;['R'];['Sorcery'];0
+Stream of Life;164;['G'];['Sorcery'];0
+Throne of Bone;120;[];['Artifact'];1
+Tranquility;151;['G'];['Sorcery'];0
+Verduran Enchantress;164;['G'];['Creature'];2
+Wall of Bone;121;['B'];['Creature'];1
+White Knight;191;['W'];['Creature'];1
+Wooden Sphere;120;[];['Artifact'];1
+Aladdin's Ring;164;[];['Artifact'];2
+Flying Carpet;120;[];['Artifact'];2
+Primal Clay;127;[];['Artifact', 'Creature'];1
+Bog Imp;163;['B'];['Creature'];0
+Inferno;119;['R'];['Instant'];2
+Mana Clash;141;['R'];['Sorcery'];2
+Pyrotechnics;200;['R'];['Sorcery'];1
+Triskelion;115;[];['Artifact', 'Creature'];2
+Clock of Omens;112;[];['Artifact'];1
+Door to Nothingness;112;['B', 'G', 'R', 'U', 'W'];['Artifact'];2
+Magma Jet;117;['R'];['Instant'];1
+Trinket Mage;105;['U'];['Creature'];1
+Abyssal Specter;113;['B'];['Creature'];1
+Azure Drake;129;['U'];['Creature'];1
+City of Brass;106;[];['Land'];2
+Deflection;113;['U'];['Instant'];2
+Fallen Angel;109;['B'];['Creature'];2
+Fyndhorn Elder;113;['G'];['Creature'];1
+Sabretooth Tiger;113;['R'];['Creature'];0
+Zur's Weirding;128;['U'];['Enchantment'];2
+Anaba Shaman;114;['R'];['Creature'];0
+Archangel;107;['W'];['Creature'];2
+Ardent Militia;104;['W'];['Creature'];1
+Balduvian Barbarians;142;['R'];['Creature'];0
+Boil;105;['R'];['Instant'];1
+Coercion;134;['B'];['Sorcery'];0
+Daring Apprentice;145;['U'];['Creature'];2
+Early Harvest;108;['G'];['Instant'];2
+Fervor;139;['R'];['Enchantment'];2
+Horned Turtle;209;['U'];['Creature'];0
+Infantry Veteran;144;['W'];['Creature'];0
+Inspiration;267;['U'];['Instant'];0
+Lightning Blast;105;['R'];['Instant'];0
+Maro;145;['G'];['Creature'];2
+Polymorph;139;['U'];['Sorcery'];2
+Razortooth Rats;111;['B'];['Creature'];0
+Reprisal;142;['W'];['Instant'];1
+Standing Troops;199;['W'];['Creature'];0
+Staunch Defenders;105;['W'];['Creature'];1
+Storm Crow;144;['U'];['Creature'];0
+Teferi's Puzzle Box;146;[];['Artifact'];2
+Trained Armodon;149;['G'];['Creature'];0
+Tremor;126;['R'];['Sorcery'];0
+Volcanic Dragon;303;['R'];['Creature'];1
+Volcanic Geyser;183;['R'];['Instant'];1
+Wind Drake;446;['U'];['Creature'];0
+Ancient Silverback;176;['G'];['Creature'];2
+Archivist;131;['U'];['Creature'];2
+Beast of Burden;131;[];['Artifact', 'Creature'];2
+Confiscate;130;['U'];['Enchantment'];1
+Coral Merfolk;447;['U'];['Creature'];0
+Corrupt;244;['B'];['Sorcery'];1
+Crossbow Infantry;134;['W'];['Creature'];0
+Dark Banishing;150;['B'];['Instant'];0
+Duress;699;['B'];['Sorcery'];0
+Eager Cadet;110;['W'];['Creature'];0
+Fleeting Image;131;['U'];['Creature'];2
+Giant Cockroach;131;['B'];['Creature'];0
+Giant Octopus;110;['U'];['Creature'];0
+Goblin Chariot;110;['R'];['Creature'];0
+Goblin Raider;130;['R'];['Creature'];0
+Intrepid Hero;158;['W'];['Creature'];2
+Levitation;222;['U'];['Enchantment'];1
+Master Healer;133;['W'];['Creature'];2
+Ogre Taskmaster;134;['R'];['Creature'];1
+Opportunity;126;['U'];['Instant'];1
+Persecute;130;['B'];['Sorcery'];2
+Phyrexian Hulk;266;[];['Artifact', 'Creature'];1
+Razorfoot Griffin;233;['W'];['Creature'];0
+Reclaim;244;['G'];['Instant'];0
+Reflexes;130;['R'];['Enchantment'];0
+Revenant;131;['B'];['Creature'];2
+Sacred Ground;128;['W'];['Enchantment'];2
+Sacred Nectar;110;['W'];['Sorcery'];0
+Seasoned Marshal;130;['W'];['Creature'];1
+Serpent Warrior;128;['B'];['Creature'];0
+Temporal Adept;133;['U'];['Creature'];2
+Thorn Elemental;186;['G'];['Creature'];2
+Treasure Trove;129;['U'];['Enchantment'];1
+Vengeance;110;['W'];['Sorcery'];1
+Vizzerdrix;110;['U'];['Creature'];2
+Volcanic Hammer;110;['R'];['Sorcery'];0
+Wing Snare;179;['G'];['Sorcery'];1
+Wood Elves;129;['G'];['Creature'];0
+Worship;130;['W'];['Enchantment'];2
+Aven Flock;112;['W'];['Creature'];0
+Blinding Angel;106;['W'];['Creature'];2
+Catalog;145;['U'];['Instant'];0
+Chastise;114;['W'];['Instant'];1
+Cowardice;105;['U'];['Enchantment'];2
+Curiosity;125;['U'];['Enchantment'];1
+Deathgazer;105;['B'];['Creature'];1
+Emperor Crocodile;104;['G'];['Creature'];2
+Enrage;117;['R'];['Instant'];1
+Execute;112;['B'];['Instant'];1
+Fertile Ground;137;['G'];['Enchantment'];0
+Glory Seeker;270;['W'];['Creature'];0
+Gluttonous Zombie;115;['B'];['Creature'];1
+Index;183;['U'];['Sorcery'];0
+Ivory Mask;105;['W'];['Enchantment'];2
+Mana Leak;231;['U'];['Instant'];0
+Mind Sludge;130;['B'];['Sorcery'];1
+Mogg Sentry;109;['R'];['Creature'];2
+Natural Affinity;105;['G'];['Instant'];2
+Oracle's Attendants;106;['W'];['Creature'];2
+Panic Attack;167;['R'];['Sorcery'];0
+Phyrexian Arena;111;['B'];['Enchantment'];2
+Rain of Blades;145;['W'];['Instant'];1
+Revive;133;['G'];['Sorcery'];1
+Rewind;173;['U'];['Instant'];1
+Sage of Lat-Nam;138;['U'];['Creature'];1
+Slay;109;['B'];['Instant'];1
+Tidal Kraken;105;['U'];['Creature'];2
+Trade Routes;105;['U'];['Enchantment'];2
+Zombify;112;['B'];['Sorcery'];1
+Battle of Wits;147;['U'];['Enchantment'];2
+Elvish Warrior;132;['G'];['Creature'];0
+Groundskeeper;156;['G'];['Creature'];1
+Leonin Skyhunter;148;['W'];['Creature'];1
+Peace of Mind;152;['W'];['Enchantment'];1
+Silklash Spider;150;['G'];['Creature'];2
+Thran Golem;135;[];['Artifact', 'Creature'];2
+Time Ebb;137;['U'];['Sorcery'];0
+Bastion Enforcer;193;['W'];['Creature'];0
+Conviction;109;['W'];['Enchantment'];0
+Druid of the Cowl;189;['G'];['Creature'];0
+Negate;1016;['U'];['Instant'];0
+Pendulum of Patterns;189;[];['Artifact'];0
+Prey Upon;420;['G'];['Sorcery'];0
+Submerged Boneyard;368;['B', 'U'];['Land'];0
+Tranquil Expanse;368;['G', 'W'];['Land'];0
+Ancient Crab;179;['U'];['Creature'];0
+Aven Mindcensor;144;['W'];['Creature'];1
+Brute Strength;179;['R'];['Instant'];0
+Cinder Barrens;467;['B', 'R'];['Land'];0
+Doomed Dissenter;191;['B'];['Creature'];0
+Electrify;191;['R'];['Instant'];0
+Enigma Drake;191;['R', 'U'];['Creature'];1
+Essence Scatter;399;['U'];['Instant'];0
+Evolving Wilds;828;[];['Land'];0
+Fling;313;['R'];['Instant'];0
+Forsaken Sanctuary;375;['B', 'W'];['Land'];1
+Foul Orchard;375;['B', 'G'];['Land'];1
+Gift of Paradise;293;['G'];['Enchantment'];0
+Highland Lake;375;['R', 'U'];['Land'];1
+Impeccable Timing;183;['W'];['Instant'];0
+Magma Spray;229;['R'];['Instant'];0
+Meandering River;374;['U', 'W'];['Land'];0
+Mighty Leap;493;['W'];['Instant'];0
+Renewed Faith;127;['W'];['Instant'];0
+Spidery Grasp;162;['G'];['Instant'];0
+Stone Quarry;560;['R', 'W'];['Land'];0
+Tattered Mummy;191;['B'];['Creature'];0
+Timber Gorge;374;['G', 'R'];['Land'];0
+Tormenting Voice;443;['R'];['Sorcery'];0
+Unburden;129;['B'];['Sorcery'];0
+Woodland Stream;654;['G', 'U'];['Land'];0
+Angelic Benediction;129;['W'];['Enchantment'];1
+Bone Splinters;315;['B'];['Sorcery'];0
+Crucible of Fire;137;['R'];['Enchantment'];2
+Death Baron;155;['B'];['Creature'];2
+Dragon Fodder;224;['R'];['Sorcery'];0
+Elvish Visionary;273;['G'];['Creature'];0
+Excommunicate;181;['W'];['Sorcery'];0
+Flameblast Dragon;125;['R'];['Creature'];2
+Fleshbag Marauder;141;['B'];['Creature'];1
+Guardians of Akrasa;129;['W'];['Creature'];0
+Knight of the White Orchid;141;['W'];['Creature'];2
+Lightning Talons;133;['R'];['Enchantment'];0
+Oblivion Ring;250;['W'];['Enchantment'];1
+Aesthir Glider;109;[];['Artifact', 'Creature'];0
+Goblin Ringleader;132;['R'];['Creature'];1
+Lay of the Land;106;['G'];['Sorcery'];0
+Sylvan Messenger;114;['G'];['Creature'];1
+Angel's Mercy;271;['W'];['Instant'];0
+Angel's Tomb;155;[];['Artifact'];1
+Barter in Blood;109;['B'];['Sorcery'];1
+Borderland Ranger;131;['G'];['Creature'];0
+Crippling Chill;152;['U'];['Instant'];0
+Death Wind;154;['B'];['Instant'];1
+Dreadwaters;155;['U'];['Sorcery'];0
+Favorable Winds;166;['U'];['Enchantment'];1
+Fleeting Distraction;134;['U'];['Instant'];0
+Ghostform;169;['U'];['Sorcery'];0
+Gloomwidow;214;['G'];['Creature'];1
+Into the Void;235;['U'];['Sorcery'];1
+Mad Prophet;159;['R'];['Creature'];1
+Moorland Inquisitor;173;['W'];['Creature'];0
+Natural End;173;['G'];['Instant'];0
+Necrobite;229;['B'];['Instant'];0
+Peel from Reality;196;['U'];['Instant'];0
+Righteous Blow;170;['W'];['Instant'];0
+Scrapskin Drake;155;['U'];['Creature'];0
+Soul of the Harvest;158;['G'];['Creature'];2
+Vorstclaw;173;['G'];['Creature'];0
+Altar's Reap;230;['B'];['Instant'];0
+Angelic Gift;187;['W'];['Enchantment'];0
+Anticipate;368;['U'];['Instant'];0
+Dispel;220;['U'];['Instant'];0
+Dragonmaster Outcast;147;['R'];['Creature'];3
+Dutiful Return;166;['B'];['Sorcery'];0
+Felidar Sovereign;146;['W'];['Creature'];3
+Gideon's Reproach;182;['W'];['Instant'];0
+Goblin War Paint;214;['R'];['Enchantment'];0
+Inspired Charge;519;['W'];['Instant'];0
+Pilgrim's Eye;147;[];['Artifact', 'Creature'];0
+Plummet;825;['G'];['Instant'];0
+Smite the Monstrous;235;['W'];['Instant'];0
+Sure Strike;377;['R'];['Instant'];0
+Territorial Baloth;146;['G'];['Creature'];0
+Divination;699;['U'];['Sorcery'];0
+Eternity Snare;127;['U'];['Enchantment'];0
+Loyal Pegasus;180;['W'];['Creature'];1
+Revoke Existence;143;['W'];['Sorcery'];0
+Satyr Wayfinder;158;['G'];['Creature'];0
+Springleaf Drum;131;[];['Artifact'];0
+Stratus Walk;162;['U'];['Enchantment'];0
+Weight of the Underworld;162;['B'];['Enchantment'];0
+Aven Squire;130;['W'];['Creature'];0
+Banefire;156;['R'];['Sorcery'];2
+Bone Saw;144;[];['Artifact'];0
+Canyon Minotaur;330;['R'];['Creature'];0
+Celestial Purge;250;['W'];['Instant'];1
+Ignite Disorder;118;['R'];['Instant'];1
+Infectious Horror;156;['B'];['Creature'];0
+Maniacal Rage;305;['R'];['Enchantment'];0
+Nicol Bolas, Planeswalker;130;['B', 'R', 'U'];['Planeswalker'];3
+Reliquary Tower;228;[];['Land'];1
+Rupture Spire;156;[];['Land'];1
+Sigil of the Empty Throne;142;['W'];['Enchantment'];2
+Azorius Guildgate;248;['U', 'W'];['Land'];0
+Boros Guildgate;248;['R', 'W'];['Land'];0
+Clear a Path;155;['R'];['Sorcery'];0
+Dimir Guildgate;248;['B', 'U'];['Land'];0
+Feral Animist;121;['G', 'R'];['Creature'];1
+Golgari Guildgate;247;['B', 'G'];['Land'];0
+Gruul Guildgate;249;['G', 'R'];['Land'];0
+Izzet Guildgate;247;['R', 'U'];['Land'];0
+Orzhov Guildgate;350;['B', 'W'];['Land'];0
+Putrefy;120;['B', 'G'];['Instant'];1
+Rakdos Guildgate;248;['B', 'R'];['Land'];0
+Selesnya Guildgate;247;['G', 'W'];['Land'];0
+Simic Guildgate;350;['G', 'U'];['Land'];0
+Blood Crypt;220;['B', 'R'];['Land'];2
+Breeding Pool;221;['G', 'U'];['Land'];2
+Ghost Quarter;116;[];['Land'];1
+Hallowed Fountain;220;['U', 'W'];['Land'];2
+Loaming Shaman;149;['G'];['Creature'];1
+Macabre Waltz;317;['B'];['Sorcery'];0
+Wit's End;119;['B'];['Sorcery'];2
+Black Cat;150;['B'];['Creature'];0
+Bone to Ash;354;['U'];['Instant'];0
+Briarpack Alpha;146;['G'];['Creature'];1
+Dungeon Geists;172;['U'];['Creature'];2
+Forge Devil;150;['R'];['Creature'];0
+Grafdigger's Cage;172;[];['Artifact'];2
+Gravepurge;153;['B'];['Instant'];0
+Griptide;147;['U'];['Instant'];0
+Midnight Guard;150;['W'];['Creature'];0
+Nephalia Seakite;146;['U'];['Creature'];0
+Ray of Revelation;103;['G', 'W'];['Instant'];0
+Screeching Skaab;154;['U'];['Creature'];0
+Torch Fiend;222;['R'];['Creature'];0
+Tower Geist;154;['U'];['Creature'];1
+Befuddle;297;['U'];['Instant'];0
+Clifftop Retreat;166;['R', 'W'];['Land'];2
+Feral Abomination;199;['B'];['Creature'];0
+Gaea's Blessing;113;['G'];['Sorcery'];1
+Gilded Lotus;207;[];['Artifact'];2
+Goblin Warchief;133;['R'];['Creature'];1
+Hinterland Harbor;166;['G', 'U'];['Land'];2
+Invoke the Divine;195;['W'];['Instant'];0
+Isolated Chapel;166;['B', 'W'];['Land'];2
+Keldon Raider;199;['R'];['Creature'];0
+Mammoth Spider;299;['G'];['Creature'];0
+Nature's Spiral;221;['G'];['Sorcery'];1
+Opt;219;['U'];['Instant'];0
+Pegasus Courser;195;['W'];['Creature'];0
+Primordial Wurm;198;['G'];['Creature'];0
+Radiating Lightning;195;['R'];['Instant'];0
+Rescue;120;['U'];['Instant'];0
+Skirk Prospector;131;['R'];['Creature'];0
+Skizzik;124;['R'];['Creature'];2
+Soul Salvage;199;['B'];['Sorcery'];0
+Sulfur Falls;166;['R', 'U'];['Land'];2
+Syncopate;201;['U'];['Instant'];0
+Tolarian Scholar;195;['U'];['Creature'];0
+Tragic Poet;118;['W'];['Creature'];0
+Woodland Cemetery;166;['B', 'G'];['Land'];2
+Tormod's Crypt;159;[];['Artifact'];1
+Darksteel Citadel;119;[];['Artifact', 'Land'];1
+Darksteel Forge;115;[];['Artifact'];3
+Darksteel Ingot;115;[];['Artifact'];1
+Battle Mastery;216;['W'];['Enchantment'];1
+Explosive Vegetation;117;['G'];['Sorcery'];1
+Glaring Aegis;185;['W'];['Enchantment'];0
+Kindled Fury;363;['R'];['Instant'];0
+Magmatic Chasm;171;['R'];['Sorcery'];0
+Spidersilk Net;144;[];['Artifact'];0
+Summit Prowler;164;['R'];['Creature'];0
+Ultimate Price;156;['B'];['Instant'];1
+Vial of Dragonfire;185;[];['Artifact'];0
+Certain Death;181;['B'];['Sorcery'];0
+Convolute;236;['U'];['Instant'];0
+Drag Under;181;['U'];['Sorcery'];0
+Falkenrath Reaver;181;['R'];['Creature'];0
+Field Creeper;187;[];['Artifact', 'Creature'];0
+Hamlet Captain;158;['G'];['Creature'];1
+Murder;361;['B'];['Instant'];0
+Ride Down;170;['R', 'W'];['Instant'];1
+Rise from the Grave;383;['B'];['Sorcery'];1
+Terrarion;134;[];['Artifact'];0
+Turn Aside;154;['U'];['Instant'];0
+Wolfkin Bond;191;['G'];['Enchantment'];0
+Archon of Justice;124;['W'];['Creature'];2
+Beckon Apparition;130;['B', 'W'];['Instant'];0
+Duskdale Wurm;192;['G'];['Creature'];1
+Phosphorescent Feast;107;['G'];['Sorcery'];1
+Bloodfell Caves;265;['B', 'R'];['Land'];0
+Blossoming Sands;265;['G', 'W'];['Land'];0
+Dismal Backwater;265;['B', 'U'];['Land'];0
+Douse in Gloom;128;['B'];['Instant'];0
+Hunt the Weak;424;['G'];['Sorcery'];0
+Jungle Hollow;265;['B', 'G'];['Land'];0
+Pressure Point;172;['W'];['Instant'];0
+Renowned Weaponsmith;184;['U'];['Creature'];1
+Rugged Highlands;265;['G', 'R'];['Land'];0
+Sandblast;176;['W'];['Instant'];0
+Scoured Barrens;265;['B', 'W'];['Land'];0
+Swiftwater Cliffs;265;['R', 'U'];['Land'];0
+Thornwood Falls;265;['G', 'U'];['Land'];0
+Tranquil Cove;265;['U', 'W'];['Land'];0
+Typhoid Rats;231;['B'];['Creature'];0
+Wind-Scarred Crag;265;['R', 'W'];['Land'];0
+Akroma's Memorial;123;[];['Artifact'];3
+Bloodshot Trainee;116;['R'];['Creature'];1
+Boldwyr Intimidator;105;['R'];['Creature'];1
+Foresee;115;['U'];['Sorcery'];0
+Graven Cairns;106;['B', 'R'];['Land'];2
+Llanowar Empath;135;['G'];['Creature'];0
+Mistmeadow Skulk;106;['W'];['Creature'];1
+Narcomoeba;150;['U'];['Creature'];2
+Nessian Courser;128;['G'];['Creature'];0
+Riddle of Lightning;130;['R'];['Instant'];1
+Rites of Flourishing;119;['G'];['Enchantment'];2
+Shimian Specter;123;['B'];['Creature'];2
+Cremate;146;['B'];['Instant'];0
+Godless Shrine;220;['B', 'W'];['Land'];2
+Leyline of the Void;212;['B'];['Enchantment'];2
+Mortify;146;['B', 'W'];['Instant'];1
+Quicken;122;['U'];['Instant'];2
+Steam Vents;218;['R', 'U'];['Land'];2
+Stomping Ground;220;['G', 'R'];['Land'];2
+Wee Dragonauts;145;['R', 'U'];['Creature'];1
+Bartizan Bats;201;['B'];['Creature'];0
+Child of Night;545;['B'];['Creature'];0
+Chromatic Lantern;172;[];['Artifact'];2
+Crushing Canopy;194;['G'];['Instant'];0
+Dead Weight;256;['B'];['Enchantment'];0
+Disdainful Stroke;180;['U'];['Instant'];0
+Fearless Halberdier;201;['R'];['Creature'];0
+Gateway Plaza;300;[];['Land'];0
+Goblin Electromancer;172;['R', 'U'];['Creature'];0
+Hitchclaw Recluse;183;['G'];['Creature'];0
+Ironshell Beetle;132;['G'];['Creature'];0
+Luminous Bonds;293;['W'];['Enchantment'];0
+Might of the Masses;348;['G'];['Instant'];0
+Overgrown Tomb;217;['B', 'G'];['Land'];2
+Sacred Foundry;218;['R', 'W'];['Land'];2
+Siege Wurm;224;['G'];['Creature'];0
+Skyknight Legionnaire;218;['R', 'W'];['Creature'];0
+Temple Garden;217;['G', 'W'];['Land'];2
+Wall of Mist;197;['U'];['Creature'];0
+Watery Grave;218;['B', 'U'];['Land'];2
+Act of Treason;807;['R'];['Sorcery'];0
+Assault Griffin;206;['W'];['Creature'];0
+Contaminated Ground;137;['B'];['Enchantment'];0
+Ember Beast;105;['R'];['Creature'];0
+Foundry Street Denizen;154;['R'];['Creature'];0
+Metropolis Sprite;176;['U'];['Creature'];0
+Murder Investigation;158;['W'];['Enchantment'];1
+Prophetic Prism;227;[];['Artifact'];0
+Ripscale Predator;176;['R'];['Creature'];0
+Sage's Row Denizen;176;['U'];['Creature'];0
+Smite;155;['W'];['Instant'];0
+Totally Lost;273;['U'];['Instant'];0
+Tower Defense;174;['G'];['Instant'];1
+Verdant Haven;230;['G'];['Enchantment'];0
+Crash Through;192;['R'];['Sorcery'];0
+Frilled Sandwalla;196;['G'];['Creature'];0
+Gift of Strength;194;['G'];['Instant'];0
+Manalith;260;[];['Artifact'];0
+Overcome;196;['G'];['Sorcery'];1
+Traveler's Amulet;336;[];['Artifact'];0
+Absorb;127;['U', 'W'];['Instant'];2
+Harrow;105;['G'];['Instant'];0
+Restock;107;['G'];['Sorcery'];1
+Ancient Grudge;118;['G', 'R'];['Instant'];0
+Blazing Torch;130;[];['Artifact'];1
+Bramblecrush;145;['G'];['Sorcery'];1
+Claustrophobia;229;['U'];['Enchantment'];0
+Cobbled Wings;164;[];['Artifact'];0
+Diregraf Ghoul;167;['B'];['Creature'];1
+Dissipate;162;['U'];['Instant'];1
+Fortress Crab;171;['U'];['Creature'];0
+Mentor of the Meek;167;['W'];['Creature'];2
+Moment of Heroism;171;['W'];['Instant'];0
+Orchard Spirit;153;['G'];['Creature'];0
+Pitchburn Devils;145;['R'];['Creature'];0
+Ranger's Guile;225;['G'];['Instant'];0
+Selfless Cathar;149;['W'];['Creature'];0
+Sensory Deprivation;145;['U'];['Enchantment'];0
+Shimmering Grotto;198;[];['Land'];0
+Skaab Goliath;153;['U'];['Creature'];1
+Think Twice;118;['U'];['Instant'];0
+Unruly Mob;157;['W'];['Creature'];0
+Walking Corpse;508;['B'];['Creature'];0
+Bladetusk Boar;212;['R'];['Creature'];0
+Eagle of the Watch;163;['W'];['Creature'];0
+Gold-Forged Sentinel;163;[];['Artifact', 'Creature'];1
+Oppressive Rays;159;['W'];['Enchantment'];0
+Oreskos Swiftclaw;257;['W'];['Creature'];0
+Sigiled Starfish;163;['U'];['Creature'];1
+Temple of Epiphany;181;['R', 'U'];['Land'];2
+Temple of Malady;181;['B', 'G'];['Land'];2
+Tormented Thoughts;163;['B'];['Sorcery'];1
+Aether Tradewinds;152;['U'];['Instant'];0
+Chandra's Pyrohelix;191;['R'];['Instant'];0
+Chief of the Foundry;174;[];['Artifact', 'Creature'];1
+Ghirapur Guide;188;['G'];['Creature'];1
+Hijack;185;['R'];['Sorcery'];0
+Bloodstained Mire;115;[];['Land'];2
+Defiant Strike;182;['W'];['Instant'];0
+Despise;148;['B'];['Sorcery'];1
+Erase;174;['W'];['Instant'];0
+Flooded Strand;115;[];['Land'];2
+Heart-Piercer Bow;183;[];['Artifact'];0
+Highland Game;179;['G'];['Creature'];0
+Incremental Growth;221;['G'];['Sorcery'];1
+Polluted Delta;115;[];['Land'];2
+Seek the Horizon;197;['G'];['Sorcery'];1
+Throttle;169;['B'];['Instant'];0
+Trumpet Blast;334;['R'];['Instant'];0
+Weave Fate;165;['U'];['Instant'];0
+Windstorm;217;['G'];['Instant'];1
+Windswept Heath;115;[];['Land'];2
+Wooded Foothills;115;[];['Land'];2
+Ajani Goldmane;177;['W'];['Planeswalker'];3
+Chandra Nalaar;177;['R'];['Planeswalker'];3
+Garruk Wildspeaker;177;['G'];['Planeswalker'];3
+Hamletback Goliath;125;['R'];['Creature'];2
+Jace Beleren;177;['U'];['Planeswalker'];3
+Kinsbaile Skirmisher;133;['W'];['Creature'];0
+Leaf Gilder;137;['G'];['Creature'];0
+Liliana Vess;257;['B'];['Planeswalker'];3
+Ponder;181;['U'];['Sorcery'];0
+Silvergill Adept;149;['U'];['Creature'];1
+Thoughtseize;130;['B'];['Sorcery'];2
+Wild Ricochet;129;['R'];['Instant'];2
+Acidic Slime;264;['G'];['Creature'];1
+Alluring Siren;192;['U'];['Creature'];1
+Armored Ascension;179;['W'];['Enchantment'];1
+Awakener Druid;124;['G'];['Creature'];1
+Baneslayer Angel;124;['W'];['Creature'];3
+Berserkers of Blood Ridge;124;['R'];['Creature'];0
+Blinding Mage;124;['W'];['Creature'];0
+Bogardan Hellkite;109;['R'];['Creature'];2
+Bountiful Harvest;200;['G'];['Sorcery'];0
+Captain of the Watch;132;['W'];['Creature'];2
+Cemetery Reaper;128;['B'];['Creature'];2
+Centaur Courser;412;['G'];['Creature'];0
+Cudgel Troll;192;['G'];['Creature'];1
+Deadly Recluse;208;['G'];['Creature'];0
+Disentomb;366;['B'];['Sorcery'];0
+Divine Verdict;561;['W'];['Instant'];0
+Djinn of Wishes;226;['U'];['Creature'];2
+Doom Blade;268;['B'];['Instant'];0
+Dragonskull Summit;359;['B', 'R'];['Land'];2
+Drowned Catacomb;359;['B', 'U'];['Land'];2
+Elite Vanguard;192;['W'];['Creature'];1
+Elvish Archdruid;264;['G'];['Creature'];2
+Fiery Hellhound;276;['R'];['Creature'];0
+Glacial Fortress;359;['U', 'W'];['Land'];2
+Glorious Charge;132;['W'];['Instant'];0
+Goblin Chieftain;192;['R'];['Creature'];2
+Griffin Sentinel;306;['W'];['Creature'];0
+Haunting Echoes;155;['B'];['Sorcery'];2
+Honor of the Pure;192;['W'];['Enchantment'];2
+Howl of the Night Pack;191;['G'];['Sorcery'];1
+Howling Banshee;124;['B'];['Creature'];1
+Ice Cage;192;['U'];['Enchantment'];0
+Indestructibility;136;['W'];['Enchantment'];2
+Lifelink;128;['W'];['Enchantment'];0
+Magma Phoenix;124;['R'];['Creature'];2
+Merfolk Sovereign;124;['U'];['Creature'];2
+Mesa Enchantress;178;['W'];['Creature'];2
+Mind Control;192;['U'];['Enchantment'];1
+Mind Shatter;114;['B'];['Sorcery'];2
+Mind Spring;114;['U'];['Sorcery'];2
+Oakenform;439;['G'];['Enchantment'];0
+Palace Guard;124;['W'];['Creature'];0
+Planar Cleansing;310;['W'];['Sorcery'];2
+Prized Unicorn;310;['G'];['Creature'];1
+Protean Hydra;124;['G'];['Creature'];2
+Rootbound Crag;359;['G', 'R'];['Land'];2
+Runeclaw Bear;272;['G'];['Creature'];0
+Safe Passage;196;['W'];['Instant'];0
+Sanguine Bond;136;['B'];['Enchantment'];2
+Seismic Strike;140;['R'];['Instant'];0
+Siege Mastodon;370;['W'];['Creature'];0
+Sign in Blood;276;['B'];['Sorcery'];0
+Silence;200;['W'];['Instant'];2
+Silvercoat Lion;196;['W'];['Creature'];0
+Sleep;294;['U'];['Sorcery'];1
+Solemn Offering;280;['W'];['Sorcery'];0
+Sparkmage Apprentice;105;['R'];['Creature'];0
+Stampeding Rhino;220;['G'];['Creature'];0
+Stormfront Pegasus;284;['W'];['Creature'];0
+Sunpetal Grove;359;['G', 'W'];['Land'];2
+Tendrils of Corruption;109;['B'];['Instant'];0
+Tome Scour;200;['U'];['Sorcery'];0
+Vampire Nocturnus;132;['B'];['Creature'];3
+Wall of Frost;280;['U'];['Creature'];1
+Warpath Ghoul;128;['B'];['Creature'];0
+Zombie Goliath;200;['B'];['Creature'];0
+Aether Adept;132;['U'];['Creature'];0
+Air Servant;227;['U'];['Creature'];1
+Ajani's Pridemate;343;['W'];['Creature'];1
+Armored Cancrix;140;['U'];['Creature'];0
+Autumn's Veil;132;['G'];['Instant'];1
+Back to Nature;144;['G'];['Instant'];1
+Barony Vampire;166;['B'];['Creature'];0
+Bloodthrone Vampire;199;['B'];['Creature'];0
+Brindle Boar;208;['G'];['Creature'];0
+Chandra's Outrage;310;['R'];['Instant'];0
+Chandra's Spitfire;166;['R'];['Creature'];1
+Combust;132;['R'];['Instant'];1
+Day of Judgment;193;['W'];['Sorcery'];2
+Elixir of Immortality;280;[];['Artifact'];1
+Ember Hauler;166;['R'];['Creature'];1
+Frost Titan;132;['U'];['Creature'];3
+Gaea's Revenge;148;['G'];['Creature'];2
+Gargoyle Sentinel;242;[];['Artifact', 'Creature'];1
+Garruk's Companion;132;['G'];['Creature'];0
+Garruk's Packleader;216;['G'];['Creature'];1
+Goblin Tunneler;195;['R'];['Creature'];0
+Goldenglow Moth;119;['W'];['Creature'];0
+Grave Titan;132;['B'];['Creature'];3
+Greater Basilisk;132;['G'];['Creature'];0
+Harbor Serpent;204;['U'];['Creature'];0
+Hoarding Dragon;144;['R'];['Creature'];2
+Inferno Titan;132;['R'];['Creature'];3
+Jace's Erasure;132;['U'];['Enchantment'];0
+Jace's Ingenuity;144;['U'];['Instant'];1
+Leyline of Anticipation;166;['U'];['Enchantment'];2
+Leyline of Sanctity;166;['W'];['Enchantment'];2
+Manic Vandal;132;['R'];['Creature'];0
+Maritime Guard;148;['U'];['Creature'];0
+Merfolk Spy;140;['U'];['Creature'];0
+Nightwing Shade;140;['B'];['Creature'];0
+Phylactery Lich;234;['B'];['Creature'];2
+Primeval Titan;132;['G'];['Creature'];3
+Quag Sickness;140;['B'];['Enchantment'];0
+Reassembling Skeleton;230;['B'];['Creature'];1
+Redirect;204;['U'];['Instant'];2
+Reverberate;204;['R'];['Instant'];2
+Roc Egg;132;['W'];['Creature'];1
+Sacred Wolf;132;['G'];['Creature'];0
+Scroll Thief;212;['U'];['Creature'];0
+Shiv's Embrace;160;['R'];['Enchantment'];1
+Steel Overseer;166;[];['Artifact', 'Creature'];2
+Stone Golem;166;[];['Artifact', 'Creature'];0
+Stormtide Leviathan;216;['U'];['Creature'];2
+Sun Titan;132;['W'];['Creature'];3
+Thunder Strike;140;['R'];['Instant'];0
+Time Reversal;132;['U'];['Sorcery'];3
+Tireless Missionaries;144;['W'];['Creature'];0
+Volcanic Strength;136;['R'];['Enchantment'];0
+Wall of Vines;162;['G'];['Creature'];0
+War Priest of Thune;136;['W'];['Creature'];1
+Water Servant;140;['U'];['Creature'];1
+Aegis Angel;319;['W'];['Creature'];2
+Auramancer;259;['W'];['Creature'];0
+Belltower Sphinx;113;['U'];['Creature'];1
+Blood Seeker;129;['B'];['Creature'];0
+Brink of Disaster;130;['B'];['Enchantment'];0
+Call to the Grave;104;['B'];['Enchantment'];2
+Chandra's Phoenix;144;['R'];['Creature'];2
+Chandra, the Firebrand;140;['R'];['Planeswalker'];3
+Circle of Flame;148;['R'];['Enchantment'];1
+Dark Favor;216;['B'];['Enchantment'];0
+Divine Favor;296;['W'];['Enchantment'];0
+Frost Breath;144;['U'];['Instant'];0
+Garruk's Horde;236;['G'];['Creature'];2
+Garruk, Primal Hunter;140;['G'];['Planeswalker'];3
+Gideon Jura;131;['W'];['Planeswalker'];3
+Gladecover Scout;144;['G'];['Creature'];0
+Goblin Arsonist;203;['R'];['Creature'];0
+Jace, Memory Adept;216;['U'];['Planeswalker'];3
+Pentavus;106;[];['Artifact', 'Creature'];2
+Primordial Hydra;140;['G'];['Creature'];3
+Slaughter Cry;129;['R'];['Instant'];0
+Smallpox;117;['B'];['Sorcery'];1
+Solemn Simulacrum;106;[];['Artifact', 'Creature'];2
+Sorin Markov;129;['B'];['Planeswalker'];3
+Sorin's Thirst;271;['B'];['Instant'];0
+Sphinx of Uthuun;140;['U'];['Creature'];2
+Tectonic Rift;268;['R'];['Sorcery'];1
+Titanic Growth;504;['G'];['Instant'];0
+Tormented Soul;140;['B'];['Creature'];0
+Trollhide;144;['G'];['Enchantment'];0
+Turn to Frog;232;['U'];['Instant'];1
+Vastwood Gorger;285;['G'];['Creature'];0
+Worldslayer;106;[];['Artifact'];2
+Wring Flesh;144;['B'];['Instant'];0
+Ajani, Caller of the Pride;148;['W'];['Planeswalker'];3
+Arbor Elf;134;['G'];['Creature'];0
+Archaeomancer;148;['U'];['Creature'];0
+Augur of Bolas;173;['U'];['Creature'];1
+Bloodhunter Bat;164;['B'];['Creature'];0
+Chandra's Fury;156;['R'];['Instant'];0
+Crippling Blight;152;['B'];['Enchantment'];0
+Dragon Hatchling;148;['R'];['Creature'];0
+Encrust;152;['U'];['Enchantment'];0
+Farseek;117;['G'];['Sorcery'];0
+Flames of the Firebrand;148;['R'];['Sorcery'];1
+Giant Scorpion;133;['B'];['Creature'];0
+Griffin Protector;174;['W'];['Creature'];0
+Ground Seal;103;['G'];['Enchantment'];2
+Hydrosurge;152;['U'];['Instant'];0
+Kitesail;134;[];['Artifact'];0
+Kraken Hatchling;133;['U'];['Creature'];0
+Liliana of the Dark Realms;148;['B'];['Planeswalker'];3
+Mark of Mutiny;133;['R'];['Sorcery'];1
+Mark of the Vampire;243;['B'];['Enchantment'];0
+Mind Sculpt;152;['U'];['Sorcery'];0
+Mutilate;104;['B'];['Sorcery'];2
+Omniscience;170;['U'];['Enchantment'];3
+Pillarfield Ox;209;['W'];['Creature'];0
+Roaring Primadox;152;['G'];['Creature'];1
+Rummaging Goblin;247;['R'];['Creature'];0
+Serra Avenger;121;['W'];['Creature'];2
+Show of Valor;250;['W'];['Instant'];0
+Smelt;246;['R'];['Instant'];0
+Stuffy Doll;121;[];['Artifact', 'Creature'];2
+Switcheroo;170;['U'];['Sorcery'];1
+Timberpack Wolf;156;['G'];['Creature'];0
+Trading Post;148;[];['Artifact'];2
+Tricks of the Trade;164;['U'];['Enchantment'];0
+Turn to Slag;137;['R'];['Sorcery'];0
+Vampire Nighthawk;133;['B'];['Creature'];1
+Vedalken Entrancer;117;['U'];['Creature'];0
+Vile Rebirth;148;['B'];['Instant'];0
+Watercourser;156;['U'];['Creature'];0
+Welkin Tern;213;['U'];['Creature'];0
+Wild Guess;148;['R'];['Sorcery'];0
+Yeva's Forcemage;156;['G'];['Creature'];0
+Accorder's Shield;141;[];['Artifact'];0
+Accursed Spirit;156;['B'];['Creature'];0
+Blightcaster;160;['B'];['Creature'];1
+Brave the Elements;137;['W'];['Instant'];1
+Celestial Flare;160;['W'];['Instant'];0
+Chandra, Pyromaster;156;['R'];['Planeswalker'];3
+Charging Griffin;160;['W'];['Creature'];0
+Congregate;176;['W'];['Instant'];1
+Disperse;464;['U'];['Instant'];0
+Domestication;139;['U'];['Enchantment'];1
+Door of Destinies;130;[];['Artifact'];2
+Dragon Egg;174;['R'];['Creature'];1
+Elvish Mystic;156;['G'];['Creature'];0
+Fireshrieker;114;[];['Artifact'];1
+Fortify;125;['W'];['Instant'];0
+Goblin Shortcutter;137;['R'];['Creature'];0
+Haunted Plate Mail;156;[];['Artifact'];2
+Mutavault;130;[];['Land'];2
+Pay No Heed;108;['W'];['Instant'];0
+Ratchet Bomb;141;[];['Artifact'];2
+Shrivel;139;['B'];['Sorcery'];0
+Soulmender;258;['W'];['Creature'];0
+Staff of the Death Magus;156;[];['Artifact'];1
+Staff of the Flame Magus;156;[];['Artifact'];1
+Staff of the Mind Magus;156;[];['Artifact'];1
+Staff of the Sun Magus;156;[];['Artifact'];1
+Staff of the Wild Magus;156;[];['Artifact'];1
+Warden of Evos Isle;178;['U'];['Creature'];1
+Windreader Sphinx;174;['U'];['Creature'];2
+Zephyr Charge;178;['U'];['Enchantment'];0
+Borderland Marauder;167;['R'];['Creature'];0
+Brawler's Plate;164;[];['Artifact'];1
+Bronze Sable;157;[];['Artifact', 'Creature'];0
+Caustic Tar;111;['B'];['Enchantment'];1
+Chord of Calling;125;['G'];['Instant'];2
+Devouring Light;125;['W'];['Instant'];1
+Flesh to Dust;164;['B'];['Instant'];0
+Frenzied Goblin;125;['R'];['Creature'];1
+Frost Lynx;182;['U'];['Creature'];0
+Gather Courage;125;['G'];['Instant'];0
+Goblin Roughrider;142;['R'];['Creature'];0
+Grindclock;145;[];['Artifact'];2
+Heat Ray;163;['R'];['Instant'];0
+Lightning Strike;350;['R'];['Instant'];1
+Marked by Honor;167;['W'];['Enchantment'];0
+Mass Calcify;135;['W'];['Sorcery'];2
+Meteorite;164;[];['Artifact'];1
+Necrogen Scudder;145;['B'];['Creature'];1
+Netcaster Spider;268;['G'];['Creature'];0
+Overwhelm;125;['G'];['Sorcery'];1
+Phyrexian Revoker;146;[];['Artifact', 'Creature'];2
+Preeminent Captain;134;['W'];['Creature'];2
+Raise the Alarm;220;['W'];['Instant'];0
+Reclamation Sage;178;['G'];['Creature'];1
+Rogue's Gloves;178;[];['Artifact'];1
+Shrapnel Blast;118;['R'];['Instant'];1
+Stab Wound;153;['B'];['Enchantment'];0
+Terra Stomper;225;['G'];['Creature'];2
+Urborg, Tomb of Yawgmoth;130;[];['Land'];2
+Wall of Mulch;114;['G'];['Creature'];1
+Zof Shade;143;['B'];['Creature'];0
+Aggressive Mammoth;200;['G'];['Creature'];2
+Boggart Brute;182;['R'];['Creature'];0
+Bogstomper;200;['B'];['Creature'];0
+Bristling Boar;200;['G'];['Creature'];0
+Colossal Dreadmaw;289;['G'];['Creature'];0
+Daggerback Basilisk;161;['G'];['Creature'];0
+Daybreak Chaplain;200;['W'];['Creature'];0
+Epicure of Blood;200;['B'];['Creature'];0
+Explosive Apparatus;186;[];['Artifact'];0
+Frilled Sea Serpent;200;['U'];['Creature'];0
+Grasping Scoundrel;194;['B'];['Creature'];0
+Gravewaker;200;['B'];['Creature'];2
+Greenwood Sentinel;200;['G'];['Creature'];0
+Guttersnipe;171;['R'];['Creature'];1
+Horizon Scholar;175;['U'];['Creature'];1
+Hostile Minotaur;200;['R'];['Creature'];0
+Infernal Scarring;182;['B'];['Enchantment'];0
+Knightly Valor;255;['W'];['Enchantment'];1
+Magistrate's Scepter;122;[];['Artifact'];2
+Make a Stand;184;['W'];['Instant'];1
+Marauder's Axe;200;[];['Artifact'];0
+Meteor Golem;200;[];['Artifact', 'Creature'];1
+Mist-Cloaked Herald;194;['U'];['Creature'];0
+Omenspeaker;175;['U'];['Creature'];0
+Pelakka Wurm;161;['G'];['Creature'];1
+Rabid Bite;380;['G'];['Sorcery'];0
+Riddlemaster Sphinx;200;['U'];['Creature'];2
+Root Snare;198;['G'];['Instant'];0
+Scapeshift;152;['G'];['Sorcery'];2
+Serra's Guardian;200;['W'];['Creature'];2
+Skeleton Archer;200;['B'];['Creature'];0
+Skymarch Bloodletter;193;['B'];['Creature'];0
+Sun Sentinel;194;['W'];['Creature'];0
+Take Vengeance;200;['W'];['Sorcery'];0
+Thornhide Wolves;186;['G'];['Creature'];0
+Waterknot;194;['U'];['Enchantment'];0
+Anvilwrought Raptor;179;[];['Artifact', 'Creature'];1
+Bladebrand;202;['B'];['Instant'];0
+Concordia Pegasus;275;['W'];['Creature'];0
+Disfigure;163;['B'];['Instant'];0
+Dragon Mage;138;['R'];['Creature'];2
+Faerie Miscreant;186;['U'];['Creature'];0
+Fathom Fleet Cutthroat;197;['B'];['Creature'];0
+Fencing Ace;175;['W'];['Creature'];1
+Feral Invocation;179;['G'];['Enchantment'];0
+Goblin Assailant;203;['R'];['Creature'];0
+Gods Willing;179;['W'];['Instant'];0
+Haazda Officer;202;['W'];['Creature'];0
+Impassioned Orator;202;['W'];['Creature'];0
+Inspiring Captain;190;['W'];['Creature'];0
+Ironclad Krovod;203;['W'];['Creature'];0
+Master Splicer;169;['W'];['Creature'];1
+Prismite;203;[];['Artifact', 'Creature'];0
+Prowling Caracal;202;['W'];['Creature'];0
+Pulse of Murasa;188;['G'];['Instant'];0
+Reduce to Ashes;190;['R'];['Sorcery'];0
+Rubblebelt Recluse;202;['R'];['Creature'];0
+Sanitarium Skeleton;190;['B'];['Creature'];0
+Scuttlemutt;157;[];['Artifact', 'Creature'];0
+Sedge Scorpion;179;['G'];['Creature'];0
+Sleep Paralysis;282;['U'];['Enchantment'];0
+Temple of Mystery;179;['G', 'U'];['Land'];2
+Temple of Silence;179;['B', 'W'];['Land'];2
+Temple of Triumph;179;['R', 'W'];['Land'];2
+Thrashing Brontodon;198;['G'];['Creature'];1
+Trusted Pegasus;203;['W'];['Creature'];0
+Uncaged Fury;190;['R'];['Instant'];0
+Undead Servant;186;['B'];['Creature'];0
+Vampire Opportunist;203;['B'];['Creature'];0
+Yoked Ox;263;['W'];['Creature'];0
+Victory's Herald;158;['W'];['Creature'];2
+Arrest;200;['W'];['Enchantment'];0
+Last Breath;156;['W'];['Instant'];0
+Annul;135;['U'];['Instant'];0
+Copper Myr;103;['G'];['Artifact', 'Creature'];0
+Gold Myr;103;['W'];['Artifact', 'Creature'];0
+Iron Myr;103;['R'];['Artifact', 'Creature'];0
+Leaden Myr;103;['B'];['Artifact', 'Creature'];0
+Mindslaver;103;[];['Artifact'];3
+Scrabbling Claws;138;[];['Artifact'];1
+Silver Myr;103;['U'];['Artifact', 'Creature'];0
+Enslave;117;['B'];['Enchantment'];1
+Grasp of Darkness;151;['B'];['Instant'];0
+Strider Harness;247;[];['Artifact'];0
+Unknown Shores;258;[];['Land'];0
+Untamed Hunger;178;['B'];['Enchantment'];0
+Cruel Revival;118;['B'];['Instant'];1
+Goblin Piledriver;118;['R'];['Creature'];2
+Bellows Lizard;157;['R'];['Creature'];0
+Catacomb Slug;157;['B'];['Creature'];0
+Cobblebrute;157;['R'];['Creature'];0
+Fiery Conclusion;129;['R'];['Instant'];0
+Guardians of Meletis;161;[];['Artifact', 'Creature'];0
+Read the Bones;161;['B'];['Sorcery'];0
+Returned Centaur;161;['B'];['Creature'];0
+Rogue's Passage;157;[];['Land'];1
+Runed Servitor;147;[];['Artifact', 'Creature'];1
+Smash to Smithereens;139;['R'];['Instant'];0
+Titan's Strength;161;['R'];['Instant'];0
+Totem-Guide Hartebeest;147;['W'];['Creature'];0
+Gainsay;105;['U'];['Instant'];1
+Junktroller;145;[];['Artifact', 'Creature'];1
+Legion Conquistador;191;['W'];['Creature'];0
+Raptor Companion;191;['W'];['Creature'];0
+Sailor of Means;191;['U'];['Creature'];0
+Mnemonic Wall;140;['U'];['Creature'];0
+Puncturing Light;151;['W'];['Instant'];0
+Sphinx of Magosi;242;['U'];['Creature'];2
+Traitorous Instinct;136;['R'];['Sorcery'];0
+Paralyzing Grasp;134;['U'];['Enchantment'];0
+Savage Surge;150;['G'];['Instant'];0
+Stealer of Secrets;165;['U'];['Creature'];0
+Dual Shot;183;['R'];['Instant'];0
+Fiery Temper;120;['R'];['Instant'];0
+Ghostly Wings;120;['U'];['Enchantment'];0
+Lightning Axe;137;['R'];['Instant'];0
+Reckless Scholar;149;['U'];['Creature'];0
+Slice in Twain;160;['G'];['Instant'];1
+New Horizons;196;['G'];['Enchantment'];0
+Spell Pierce;156;['U'];['Instant'];0

@@ -1,0 +1,223 @@
+Sage Owl
+Cloud Elemental
+Phantom Warrior
+Thieving Magpie
+Air Elemental
+Unsummon
+Unsummon
+Remove Soul
+Boomerang
+Cancel
+Cancel
+Rod of Ruin
+Crossbow Infantry
+Pacifism
+Pacifism
+Pacifism
+Suntail Hawk
+Venerable Monk
+Angel of Mercy
+Disperse
+Disperse
+Evolving Wilds
+Evolving Wilds
+Deadly Recluse
+Rootwalla
+Giant Spider
+Giant Spider
+Mind Rot
+Giant Growth
+Giant Growth
+Doom Blade
+Doom Blade
+Elite Vanguard
+Ajani's Pridemate
+Ajani's Pridemate
+Silvercoat Lion
+Serra Angel
+Mighty Leap
+Inspired Charge
+Goblin Arsonist
+Shock
+Shock
+Shock
+Shock
+Coral Merfolk
+Horned Turtle
+Wind Drake
+Wind Drake
+Vastwood Gorger
+Titanic Growth
+Knightly Valor
+Prodigal Pyromancer
+Lava Axe
+Lava Axe
+Fireball
+Lightning Bolt
+Negate
+Negate
+Chandra's Outrage
+Icy Manipulator
+Llanowar Elves
+Llanowar Elves
+Llanowar Elves
+Trained Armodon
+Naturalize
+Blanchwood Armor
+Drudge Skeletons
+Gravedigger
+Dark Banishing
+Child of Night
+Act of Treason
+Act of Treason
+Corrupt
+Warpath Ghoul
+Zombie Goliath
+Diabolic Tutor
+Rise from the Grave
+Terramorphic Expanse
+Augur of Bolas
+Scroll Thief
+Divination
+Divination
+Sleep
+Essence Scatter
+Essence Scatter
+Elixir of Immortality
+Runeclaw Bear
+Lightning Elemental
+Rampant Growth
+Severed Legion
+Ravenous Rats
+Raging Goblin
+Dragon Hatchling
+Flames of the Firebrand
+Wall of Frost
+Reassembling Skeleton
+Spined Wurm
+Reclamation Sage
+Might of the Masses
+Lightning Strike
+Lightning Strike
+Lightning Strike
+Goblin Raider
+Goblin Chariot
+Spitting Earth
+Blaze
+Soulmender
+Divine Favor
+Trollhide
+Divine Verdict
+Oakenform
+Air Servant
+Claustrophobia
+Murder
+Murder
+Murder
+Volcanic Hammer
+Garruk's Packleader
+Duskdale Wurm
+Raise the Alarm
+Tranquil Expanse
+Foul Orchard
+Foul Orchard
+Submerged Boneyard
+Submerged Boneyard
+Timber Gorge
+Highland Lake
+Highland Lake
+Meandering River
+Meandering River
+Wildgrowth Walker
+Lurking Chupacabra
+Hashep Oasis
+Shefet Dunes
+Seekers' Squire
+Tishana's Wayfinder
+Moment of Craving
+Opt
+Opt
+Hieroglyphic Illumination
+Cinder Barrens
+Daring Buccaneer
+Fanatical Firebrand
+Grasping Scoundrel
+Rigging Runner
+Dire Fleet Captain
+Forerunner of the Coalition
+Dire Fleet Neckbreaker
+Magma Spray
+Fiery Cannonade
+Woodland Stream
+Mist-Cloaked Herald
+River Sneak
+Forerunner of the Heralds
+One With the Wind
+River Heralds' Boon
+Enigma Drake
+Stone Quarry
+Skymarcher Aspirant
+Forsaken Sanctuary
+Forsaken Sanctuary
+Martyr of Dusk
+Secrets of the Golden City
+Thrashing Brontodon
+Baffling End
+Desert's Hold
+Cast Out
+Ixalan's Binding
+Merfolk Branchwalker
+Ravenous Chupacabra
+Tendershoot Dryad
+Path of Discovery
+Reaver Ambush
+Golden Demise
+Field of Ruin
+Kitesail Freebooter
+Abrade
+Puncturing Blow
+Jade Bearer
+Kumena's Speaker
+Merfolk Mistbinder
+Silvergill Adept
+Tempest Caller
+Chart a Course
+Bishop's Soldier
+Skymarch Bloodletter
+Call to the Feast
+Shivan Fire
+Fight with Fire
+Saproling Migration
+Vodalian Arcanist
+Seal Away
+Draconic Disciple
+Cast Down
+Sift
+Yavimaya Sapherd
+Hieromancer's Cage
+Spore Swarm
+Leonin Vanguard
+Ghitu Lavarunner
+Blink of an Eye
+Knight's Pledge
+Luminous Bonds
+On Serra's Wings
+Ajani's Welcome
+Kitesail Corsair
+Sunhome Stalwart
+Doomed Dissenter
+Goblin Instigator
+Healer's Hawk
+Azorius Guildgate
+Orzhov Guildgate
+Izzet Guildgate
+Dimir Guildgate
+Boros Guildgate
+Gruul Guildgate
+Selesnya Guildgate
+Simic Guildgate
+Rakdos Guildgate
+Golgari Guildgate
+Glowspore Shaman
+Plaguecrafter
+Lava Coil
